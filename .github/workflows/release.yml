@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  IMAGE: ghcr.io/csteenkamp/secretsanta-web
+  IMAGE: ghcr.io/flippingeasy/secretsanta-web
 
 jobs:
   check:
